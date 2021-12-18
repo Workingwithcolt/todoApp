@@ -1,0 +1,43 @@
+.background{
+    background-color: LightPink;
+}
+.image{
+    min-width: 70%;
+    height:490px;
+    flex:1 auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border:1px solid black;
+    margin:0 7.5px 20px;
+    overflow: hidden;
+    .text-big{
+        color:white;
+        font-size: 30px;
+    }
+    .text-small{
+        color:white;
+        font-size: 18px;
+    }
+    
+}
+
+.background-image{
+    padding:10px; 
+}
+.background-image:hover{
+    // padding-right:50px;
+        cursor: pointer;
+        // transition: transform 6s cubic-bezier(0.25,0.45,0.45,0.95);
+        // transform: scale(1.1);
+    }
+.second-part{
+    margin-left: 33%;
+    // background-color: LightPink;
+    .address{
+        font-size:50px;
+    }
+    .address-inside{
+        color:#7095E1;
+    }
+}

@@ -1,0 +1,19 @@
+.list{
+    color:mediumblue;
+    width:300px;
+    background-color: darkslategray;
+    height:50px;
+    margin:20px auto;
+    border-radius:5px;
+
+
+}
+.list P{
+    padding:10px;
+
+}
+.faicons{
+    margin: auto 250px;
+    padding-bottom:300px;
+    cursor: pointer;
+}
